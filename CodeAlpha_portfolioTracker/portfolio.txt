@@ -1,0 +1,4 @@
+Stock Portfolio
+AAPL: 5400
+GOOGL: 5460
+Total Investment: 10860
